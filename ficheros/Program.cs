@@ -91,7 +91,7 @@ internal class Program
                 
             }
             contador ++;
-        } while (respuesta == "si" && contador < 3);
+        } while (respuesta == "si" && contador < 20);
         
         RellenarFichero(ruta, miDiccionario);
         LeerFichero(ruta);
