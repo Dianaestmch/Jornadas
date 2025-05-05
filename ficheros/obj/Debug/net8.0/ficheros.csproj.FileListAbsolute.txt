@@ -1,0 +1,28 @@
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.exe
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.deps.json
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.runtimeconfig.json
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.dll
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.pdb
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.AssemblyInfoInputs.cache
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.AssemblyInfo.cs
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.csproj.CoreCompileInputs.cache
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.dll
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/refint/ficheros.dll
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.pdb
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.genruntimeconfig.cache
+C:/Users/alumno/Desktop/1 DAM - DM/OneDrive - Conselleria d'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ref/ficheros.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.deps.json
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.runtimeconfig.json
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/bin/Debug/net8.0/ficheros.pdb
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.AssemblyInfoInputs.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.AssemblyInfo.cs
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.csproj.CoreCompileInputs.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/refint/ficheros.dll
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.pdb
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ficheros.genruntimeconfig.cache
+/Users/dianamorocho/Library/CloudStorage/OneDrive-Conselleriad'Educació/1º DAM A (24 - 25)/Programación/1. Nueva carpeta/ficheros/obj/Debug/net8.0/ref/ficheros.dll
