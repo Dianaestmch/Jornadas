@@ -1,2 +1,2 @@
-pepe: nombre
-paco: nombre
+cloud: Servicio que permite acceder a recursos y datos a través de internet
+ia: Tecnología que simula la inteligencia humana para resolver problemas o tomar decisiones
